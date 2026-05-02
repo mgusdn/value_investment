@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+OpenDartReader
+finance-datareader
+yfinance
+openai
